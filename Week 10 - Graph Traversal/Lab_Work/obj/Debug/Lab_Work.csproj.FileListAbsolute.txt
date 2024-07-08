@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\bin\Debug\Lab_Work.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\bin\Debug\Lab_Work.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\bin\Debug\Lab_Work.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\obj\Debug\Lab_Work.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\obj\Debug\Lab_Work.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\obj\Debug\Lab_Work.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\obj\Debug\Lab_Work.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 10 - Graph Traversal\Lab_Work\obj\Debug\Lab_Work.pdb

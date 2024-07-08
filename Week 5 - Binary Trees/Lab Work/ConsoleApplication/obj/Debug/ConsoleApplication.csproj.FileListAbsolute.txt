@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 5 - Binary Trees\Lab Work\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

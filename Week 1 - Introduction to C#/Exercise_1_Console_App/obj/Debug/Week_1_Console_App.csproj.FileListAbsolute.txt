@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\bin\Debug\Week_1_Console_App.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\bin\Debug\Week_1_Console_App.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\bin\Debug\Week_1_Console_App.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\obj\Debug\Week_1_Console_App.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\obj\Debug\Week_1_Console_App.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\obj\Debug\Week_1_Console_App.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\obj\Debug\Week_1_Console_App.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Console Application\Week_1_Console_App\obj\Debug\Week_1_Console_App.pdb

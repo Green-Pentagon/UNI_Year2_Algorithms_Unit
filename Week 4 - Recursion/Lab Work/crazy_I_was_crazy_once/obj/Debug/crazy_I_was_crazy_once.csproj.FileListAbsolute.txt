@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\bin\Debug\crazy_I_was_crazy_once.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\bin\Debug\crazy_I_was_crazy_once.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\bin\Debug\crazy_I_was_crazy_once.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\obj\Debug\crazy_I_was_crazy_once.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\obj\Debug\crazy_I_was_crazy_once.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\obj\Debug\crazy_I_was_crazy_once.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\obj\Debug\crazy_I_was_crazy_once.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 4 - Recursion\Lab Work\crazy_I_was_crazy_once\obj\Debug\crazy_I_was_crazy_once.pdb

@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\bin\Debug\objects_Library.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\bin\Debug\objects_Library.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\bin\Debug\objects_Library.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\obj\Debug\objects_Library.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\obj\Debug\objects_Library.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\obj\Debug\objects_Library.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\obj\Debug\objects_Library.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\objects_Library\obj\Debug\objects_Library.pdb

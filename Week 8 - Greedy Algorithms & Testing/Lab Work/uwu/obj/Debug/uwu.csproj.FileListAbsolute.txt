@@ -1,0 +1,8 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\bin\Debug\uwu.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\bin\Debug\uwu.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\bin\Debug\uwu.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\obj\Debug\uwu.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\obj\Debug\uwu.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\obj\Debug\uwu.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\obj\Debug\uwu.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 8 - Greedy Algorithms\Lab Work\uwu\obj\Debug\uwu.pdb

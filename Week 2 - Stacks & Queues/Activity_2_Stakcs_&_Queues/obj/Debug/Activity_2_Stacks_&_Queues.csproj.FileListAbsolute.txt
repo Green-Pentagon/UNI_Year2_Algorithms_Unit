@@ -1,0 +1,10 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stacks_&_Queues.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stacks_&_Queues.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stakcs___Queues.Properties.Resources.resources
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stacks_&_Queues.csproj.GenerateResource.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stacks_&_Queues.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\bin\Debug\Activity_2_Stakcs_&_Queues.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\bin\Debug\Activity_2_Stakcs_&_Queues.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\bin\Debug\Activity_2_Stakcs_&_Queues.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stakcs_&_Queues.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 2 - Stacks & Queues\Activity_2_Stakcs_&_Queues\obj\Debug\Activity_2_Stakcs_&_Queues.pdb

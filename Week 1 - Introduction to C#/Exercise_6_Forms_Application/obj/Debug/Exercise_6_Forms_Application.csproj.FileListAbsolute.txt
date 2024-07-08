@@ -1,0 +1,11 @@
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\bin\Debug\Exercise_6_Forms_Application.exe.config
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\bin\Debug\Exercise_6_Forms_Application.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\bin\Debug\Exercise_6_Forms_Application.pdb
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.csproj.AssemblyReference.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.csproj.SuggestedBindingRedirects.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.Form1.resources
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.Properties.Resources.resources
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.csproj.GenerateResource.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.csproj.CoreCompileInputs.cache
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.exe
+F:\University\Year 2\Algorithms & Data Structures\Week 1 - Introcuction to C#\Forms Application\Exercise_6_Forms_Application\obj\Debug\Exercise_6_Forms_Application.pdb
